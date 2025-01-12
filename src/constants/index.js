@@ -123,7 +123,7 @@ import {
       company_name: "Concentrix",
       icon: concentrix,
       iconBg: "#383E56",
-      date: "February 2021 – December 2022",
+      date: "January 2021 – December 2022",
       points: [
         "Modernized a legacy system by decomposing itinto microservices, improving performance and reducing maintenance overhead.",
         "Developed APIs and cloud integration processes using Python, JavaScript for efficient client data management, along with Salesforce authentication and integration Proofs of Concept (POCs).",
