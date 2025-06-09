@@ -26,6 +26,11 @@ import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
 import concentrix from "./company/concentrix.png";
+import ileaf from "./company/ileaf.png";
+import filmyai from "./company/filmyai.png";
+import pawsible from "./company/pawsible.png";
+import polymorphai from "./company/polymorphai.png";
+import pic2poem from "./company/pic2poem.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -61,6 +66,11 @@ export {
   starbucks,
   concentrix,
   tesla,
+  ileaf,
+  filmyai,
+  pawsible,
+  polymorphai,
+  pic2poem,
   carrent,
   jobit,
   tripguide,

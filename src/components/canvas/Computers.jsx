@@ -5,7 +5,26 @@ import { OrbitControls, Preload, useGLTF } from "@react-three/drei";
 import CanvasLoader from "../Loader";
 
 const Computers = ({ isMobile }) => {
-  const computer = useGLTF("./desktop_pc/scene.gltf");
+  const [model, setModel] = useState(null);
+  const [error, setError] = useState(null);
+
+  useEffect(() => {
+    try {
+      const computer = useGLTF("./desktop_pc/scene.gltf");
+      setModel(computer);
+    } catch (err) {
+      console.error("Error loading 3D model:", err);
+      setError(err);
+    }
+  }, []);
+
+  if (error) {
+    return null; // Return null if model fails to load
+  }
+
+  if (!model) {
+    return <CanvasLoader />;
+  }
 
   return (
     <mesh>
@@ -20,7 +39,7 @@ const Computers = ({ isMobile }) => {
       />
       <pointLight intensity={3} />
       <primitive
-        object={computer.scene}
+        object={model.scene}
         scale={isMobile ? 0.7 : 0.75}
         position={isMobile ? [0, -3, -2.2] : [0, -3.25, -1.5]}
         rotation={[-0.01, -0.2, -0.1]}
