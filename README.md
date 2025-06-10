@@ -111,7 +111,7 @@ See the [LICENSE](LICENSE) file for the full license text.
 ## 🙋‍♂️ Author
 
 **Rohit Rathod**  
-[LinkedIn]((https://www.linkedin.com/in/rohit-rathod-83ba97183/)) • 
+[LinkedIn](https://www.linkedin.com/in/rohit-rathod-83ba97183/)
 
 If you find this project useful, please ⭐️ the repo and share it!
 
