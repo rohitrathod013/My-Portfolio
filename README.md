@@ -1,6 +1,6 @@
 # My Portfolio 🚀
 
-[![Live site](![image](![Screenshot 2025-06-10 123448](https://github.com/user-attachments/assets/59a90087-2ed6-4ef3-8713-342d82b64787)
+(![Screenshot 2025-06-10 123448](https://github.com/user-attachments/assets/59a90087-2ed6-4ef3-8713-342d82b64787)
 )
 )](https://my-portfolio-rohit-s-projects-e3e2f31c.vercel.app)
 
