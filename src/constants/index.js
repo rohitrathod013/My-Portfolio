@@ -308,4 +308,8 @@ import {
   ];
 
   
+<<<<<<< HEAD
   export { services, technologies, experiences, testimonials, projects, };
+=======
+  export { services, technologies, experiences, testimonials, projects };
+>>>>>>> 2a84254ca23b519276ad99044438df26b4766613
