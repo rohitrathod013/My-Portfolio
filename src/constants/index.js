@@ -306,10 +306,5 @@ import {
       source_code_link: "https://github.com/rohitrathod013/HireHub",
     },
   ];
-
   
-<<<<<<< HEAD
-  export { services, technologies, experiences, testimonials, projects, };
-=======
   export { services, technologies, experiences, testimonials, projects };
->>>>>>> 2a84254ca23b519276ad99044438df26b4766613
