@@ -1,6 +1,7 @@
 # My Portfolio 🚀
 
-[![Live site](https://img.shields.io/badge/Live-Demo-brightgreen)](https://my-portfolio-rohit-s-projects-e3e2f31c.vercel.app)
+[![Live site](![image](https://github.com/user-attachments/assets/1c2939a0-b3ea-486d-a682-a952cfc746c2)
+)](https://my-portfolio-rohit-s-projects-e3e2f31c.vercel.app)
 
 > A blazing‑fast, fully‑responsive portfolio site built with **React 18**, **Vite**, and **Tailwind CSS**.
 
@@ -102,14 +103,15 @@ You can also host on Netlify, GitHub Pages, AWS Amplify, or any static hosting
 
 ## 📜 License
 
-Distributed under the **MIT License**. See `LICENSE` for details.
+© 2025 Rohit Rathod — Released under the **MIT License**.  
+See the [LICENSE](LICENSE) file for the full license text.
 
 ---
 
 ## 🙋‍♂️ Author
 
 **Rohit Rathod**  
-[LinkedIn](https://www.linkedin.com/in/rohit-rathod) • [Twitter](https://twitter.com/rohitrathod1302)
+[LinkedIn]((https://www.linkedin.com/in/rohit-rathod-83ba97183/)) • 
 
 If you find this project useful, please ⭐️ the repo and share it!
 
