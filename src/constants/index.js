@@ -215,7 +215,7 @@ import {
     {
       name: "Pic2Poem: AI Image-to-Poetry App",
       description:
-        <p className="text-secondary text-[16px] text-justify">{"An innovative Next.js and React application that transforms user-uploaded photos into unique poems. Pic2Poem leverages Genkit and Google's Gemini AI to analyze images and generate poetry in various styles (e.g., Haiku, Sonnet). Features a sleek, responsive UI built with ShadCN components and Tailwind CSS. This project showcases skills in full-stack development, AI integration, and creating engaging user experiences."}</p>
+       "An innovative Next.js and React application that transforms user-uploaded photos into unique poems. Pic2Poem leverages Genkit and Google's Gemini AI to analyze images and generate poetry in various styles (e.g., Haiku, Sonnet). Features a sleek, responsive UI built with ShadCN components and Tailwind CSS. This project showcases skills in full-stack development, AI integration, and creating engaging user experiences.",
       tags: [
         { name: "nextjs", color: "blue-text-gradient" },
         { name: "react", color: "blue-text-gradient" },
