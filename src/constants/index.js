@@ -158,7 +158,7 @@ import {
       company_name: "iLeaf",
       icon: ileaf,
       iconBg: "#383E56",
-      date: "January 2020 – May 2021",
+      date: "January 2020 – May 2020",
       points: [
         "Developed and maintained mobile applications using React Native",
         "Implemented new features and fixed bugs in existing applications",
