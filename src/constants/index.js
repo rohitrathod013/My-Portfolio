@@ -130,10 +130,11 @@ import {
       iconBg: "#383E56",
       date: "April 2025 – Present",
       points: [
-        "Developing and maintaining web applications using React.js and Node.js",
-        "Collaborating with cross-functional teams to define, design, and ship new features",
-        "Implementing responsive design and ensuring cross-browser compatibility",
-        "Participating in code reviews and maintaining code quality standards"
+        "Increased deployment stability (35%) through CI/CD automation with GitHub Actions and Jenkins.",
+        "Improved system scalability (40%) via optimized REST APIs, microservices (.NET, Node.js, MongoDB).",
+        "Designed reusable React and Tailwind UI components enhancing UX and developer productivity.",
+        "Documented software architecture using HLD and LLD, facilitating clearer communication and understanding among development teams.",
+        "Conducted regular cybersecurity assessments, addressing vulnerabilities and improving security posture."
       ],
     },
     {
@@ -141,14 +142,15 @@ import {
       company_name: "Concentrix",
       icon: concentrix,
       iconBg: "#383E56",
-      date: "January 2021 – December 2022",
+      date: "June 2020 – December 2022",
       points: [
-        "Modernized a legacy system by decomposing itinto microservices, improving performance and reducing maintenance overhead.",
+        "Modernized legacy systems using AWS, Azure, and .NET, boosting backend performance by 30%.",
         "Developed APIs and cloud integration processes using Python, JavaScript for efficient client data management, along with Salesforce authentication and integration Proofs of Concept (POCs).",
-        "Engineered cloud infrastructure with Terraform and deployed on AWS using ECS, ALB, and Autoscaling, supported by Deep Health Check APIs for monitoring.",
-        "Implemented monitoring systems with Prometheus and Grafana for data collection and real-time system health visualization.",
-        "Built an ETL pipeline with AWS Glue, Terraform, and Python to extract data from Snowflake, transform it, and load it into MySQL.",
-        "Achieved over 90% code coverage by conducting code reviews, integration and unit testing, and collaborating on system design improvements."
+        "Built robust infrastructure monitoring (Prometheus, Grafana, Power BI), reducing MTTR by 25%.",
+        "Created secure Dockerized microservices, managing deployments with Jenkins and Terraform.",
+        "Enhanced security and performance via PowerShell scripting and automated Azure DevOps alerts.",
+        "Achieved over 90% code coverage by conducting code reviews, integration and unit testing, and collaborating on system design improvements.",
+        "Led cross-team incident response and implemented cybersecurity best practices to secure production environments."
       ],
     },
     {
@@ -156,7 +158,7 @@ import {
       company_name: "iLeaf",
       icon: ileaf,
       iconBg: "#383E56",
-      date: "August 2020 – January 2021",
+      date: "January 2020 – May 2021",
       points: [
         "Developed and maintained mobile applications using React Native",
         "Implemented new features and fixed bugs in existing applications",
