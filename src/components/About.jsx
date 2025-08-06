@@ -44,11 +44,12 @@ const About = () => {
       </motion.div>
 
       <motion.p
-        variants={fadeIn("", "", 0.1, 1)}
-        className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
-      >
-        I am a graduate in Computer Science from Pace University, specializing in Software Engineering. I have hands-on experience in software development, cloud migration, and data analysis, utilizing technologies like Python, JavaScript, React, Docker, and Salesforce CRM. My technical expertise spans mobile development, database management, and cloud platforms, with proficiency in tools such as AWS, Microsoft Azure, and DevOps. I have completed impactful projects, including an e-commerce platform, a note-taking app, and an autonomous quadcopter, showcasing my ability to deliver innovative solutions. Additionally, I hold certifications in AI, cloud technologies, and cybersecurity.I'm a quick learner and collaborate closely with clients to create efficient, scalable, and user-friendly solutions that solve real-world problems. Let's work together to bring your ideas to life!
-      </motion.p>
+  variants={fadeIn("", "", 0.1, 1)}
+  className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px] text-justify'
+>
+  I am a graduate in Computer Science from Pace University, specializing in Software Engineering. I have hands-on experience in software development, cloud migration, and data analysis, utilizing technologies like Python, JavaScript, React, Docker, and Salesforce CRM. My technical expertise spans mobile development, database management, and cloud platforms, with proficiency in tools such as AWS, Microsoft Azure, and DevOps. I have completed impactful projects, including an e-commerce platform, a note-taking app, and an autonomous quadcopter, showcasing my ability to deliver innovative solutions. Additionally, I hold certifications in AI, cloud technologies, and cybersecurity. I'm a quick learner and collaborate closely with clients to create efficient, scalable, and user-friendly solutions that solve real-world problems. Let's work together to bring your ideas to life!
+</motion.p>
+
 
       <div className='mt-20 flex flex-wrap gap-10'>
         {services.map((service, index) => (
