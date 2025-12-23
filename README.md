@@ -1,6 +1,7 @@
 # My Portfolio 🚀
 
-[![Screenshot 2025-06-10 123448](https://github.com/user-attachments/assets/59a90087-2ed6-4ef3-8713-342d82b64787)](https://my-portfolio-rohit-s-projects-e3e2f31c.vercel.app)
+<img width="1531" height="925" alt="image" src="https://github.com/user-attachments/assets/d40844dd-919d-43e4-9a09-bb3b14af5c07" />
+(https://github.com/user-attachments/assets/59a90087-2ed6-4ef3-8713-342d82b64787)](https://my-portfolio-rohit-s-projects-e3e2f31c.vercel.app)
 
 > A blazing‑fast, fully‑responsive portfolio site built with **React 18**, **Vite**, and **Tailwind CSS**.
 
