@@ -124,47 +124,34 @@ import {
   
   const experiences = [
     {
-      title: "Full Stack Developer Intern",
-      company_name: "FILMY AI",
+      title: "AI/ML Engineer",
+      company_name: "Metlife, USA",
       icon: filmyai,
       iconBg: "#383E56",
-      date: "April 2025 – Present",
+      date: "July 2024 – Present",
       points: [
-        "Increased deployment stability (35%) through CI/CD automation with GitHub Actions and Jenkins.",
-        "Improved system scalability (40%) via optimized REST APIs, microservices (.NET, Node.js, MongoDB).",
-        "Designed reusable React and Tailwind UI components enhancing UX and developer productivity.",
-        "Documented software architecture using HLD and LLD, facilitating clearer communication and understanding among development teams.",
-        "Conducted regular cybersecurity assessments, addressing vulnerabilities and improving security posture."
+        "Architected unified ML pipelines for SmartClaims AI and Life360 Advisor AI, reducing insurance claim processing time by 25% through automated extraction, intelligent routing, transformer-based reasoning, and scalable vector-driven retrieval workflows.",
+        "Enhanced fraud-risk and customer-insight models by engineering enriched features, refining neural architectures, applying segmentation, and orchestrating distributed training, improving predictive accuracy by 30%.",
+        "Deployed containerized model services for claims and recommendations, improving production reliability 40% via microservices orchestration, automated tests, version governance, monitoring, and controlled delivery pipelines.",
+        "Integrated explainability and fairness frameworks into decision pipelines, boosting adjuster and customer trust by 50% using transparent reasoning layers, SHAP-based interpretations, bias checks, and policy-aligned accountability modules.",
+        "Advanced retention and cross-sell strategies by 22% by developing hybrid recommendation engines powered by embeddings, life-event detection, behavioral insights, and event-stream scoring connected to enterprise customer-engagement systems.",
+        "Stabilized AI platforms by 35% by automating retraining cycles, strengthening data-quality checks, implementing drift alerts, and optimizing MLOps pipelines for claims automation and insurance intelligence."
       ],
     },
     {
-      title: "Jr Technical Specialist (Dell Technologies Project)",
-      company_name: "Concentrix",
+      title: "Machine Learning Engineer",
+      company_name: "Mphasis, India",
       icon: concentrix,
       iconBg: "#383E56",
-      date: "June 2020 – December 2022",
+      date: "November 2019 – December 2022",
       points: [
-        "Modernized legacy systems using AWS, Azure, and .NET, boosting backend performance by 30%.",
-        "Developed APIs and cloud integration processes using Python, JavaScript for efficient client data management, along with Salesforce authentication and integration Proofs of Concept (POCs).",
-        "Built robust infrastructure monitoring (Prometheus, Grafana, Power BI), reducing MTTR by 25%.",
-        "Created secure Dockerized microservices, managing deployments with Jenkins and Terraform.",
-        "Enhanced security and performance via PowerShell scripting and automated Azure DevOps alerts.",
-        "Achieved over 90% code coverage by conducting code reviews, integration and unit testing, and collaborating on system design improvements.",
-        "Led cross-team incident response and implemented cybersecurity best practices to secure production environments."
-      ],
-    },
-    {
-      title: "Mobile App Developer Intern",
-      company_name: "iLeaf",
-      icon: ileaf,
-      iconBg: "#383E56",
-      date: "January 2020 – May 2020",
-      points: [
-        "Developed and maintained mobile applications using React Native",
-        "Implemented new features and fixed bugs in existing applications",
-        "Worked with REST APIs and integrated third-party services",
-        "Participated in daily stand-ups and sprint planning meetings",
-        "Collaborated with the design team to implement UI/UX improvements"
+        "Engineered fraud-scoring and credit-risk pipelines by preparing transactional datasets, designing behavior features, validating anomalies, and improving scoring stability across high-volume payments and lending workflows.",
+        "Refined predictive models by evaluating multiple algorithms, optimizing feature sets, reducing dimensionality, and aligning sequence-based indicators to strengthen fraud detection and creditworthiness assessment.",
+        "Deployed scoring engines by containerizing inference components, integrating monitoring layers, enforcing version control, and enabling seamless decision processing in real-time payments and automated loan approvals.",
+        "Strengthened model robustness by automating retraining cycles, balancing imbalanced datasets, monitoring drift, and validating performance to maintain consistent fraud detection and credit-scoring accuracy.",
+        "Advanced risk segmentation pipelines by applying clustering logic, extracting latent components, analyzing user sequences, and generating actionable categories that guided fraud teams and credit officers.",
+        "Increased fraud detection effectiveness by 20% by aligning calibrated thresholds, using sequential behavior markers, and integrating enriched user-risk features to improve intervention accuracy.",
+        "Improved credit evaluation efficiency by 30% through automated scoring flows, cash-flow indicators, and reduced manual reviews, accelerating loan decisions across large borrower segments."
       ],
     },
   ];
