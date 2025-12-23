@@ -47,7 +47,7 @@ const About = () => {
   variants={fadeIn("", "", 0.1, 1)}
   className='mt-4 text-secondary text-[17px] max-w-6xl w-full leading-[30px] text-justify'
 >
-  I am a graduate in Computer Science from Pace University, specializing in Software Engineering. I have hands-on experience in software development, cloud migration, and data analysis, utilizing technologies like Python, JavaScript, React, Docker, and Salesforce CRM. My technical expertise spans mobile development, database management, and cloud platforms, with proficiency in tools such as AWS, Microsoft Azure, and DevOps. I have completed impactful projects, including an e-commerce platform, a note-taking app, and an autonomous quadcopter, showcasing my ability to deliver innovative solutions. Additionally, I hold certifications in AI, cloud technologies, and cybersecurity. I'm a quick learner and collaborate closely with clients to create efficient, scalable, and user-friendly solutions that solve real-world problems. Let's work together to bring your ideas to life!
+  Experienced AI/ML Engineer with around 4+ years of experience designing intelligent scoring pipelines, developing deep learning and ML models, and deploying scalable inference systems across high-impact financial and insurance workflows. Demonstrates strong capability in transforming complex data into actionable risk insights using transformers, LLMs, sequence models, clustering, feature engineering, and end-to-end MLOps practices. Recognized for effective cross-team collaboration, rigorous experimentation, and delivering production-ready solutions that enhance automation, model reliability, and data-driven decision making.
 </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>
