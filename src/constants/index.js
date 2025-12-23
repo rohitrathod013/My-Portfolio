@@ -128,7 +128,7 @@ import {
     {
       title: "AI/ML Engineer",
       company_name: "Metlife, USA",
-      icon: ,
+      icon: concentrix,
       iconBg: "#383E56",
       date: "July 2024 – Present",
       points: [
@@ -143,7 +143,7 @@ import {
     {
       title: "Machine Learning Engineer",
       company_name: "Mphasis, India",
-      icon: ,
+      icon: starbucks,
       iconBg: "#383E56",
       date: "November 2019 – December 2022",
       points: [
