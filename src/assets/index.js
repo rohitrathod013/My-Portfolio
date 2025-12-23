@@ -31,6 +31,8 @@ import filmyai from "./company/filmyai.png";
 import pawsible from "./company/pawsible.png";
 import polymorphai from "./company/polymorphai.png";
 import pic2poem from "./company/pic2poem.png";
+import metlife from "./company/metlife.png";
+import mphasis from "./company/mphasis.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
