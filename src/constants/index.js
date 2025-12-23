@@ -31,6 +31,8 @@ import {
     pawsible,
     polymorphai,
     pic2poem,
+    metlife,
+    mphasis,
   } from "../assets";  
   
   export const navLinks = [
@@ -126,7 +128,7 @@ import {
     {
       title: "AI/ML Engineer",
       company_name: "Metlife, USA",
-      icon: filmyai,
+      icon: metlife,
       iconBg: "#383E56",
       date: "July 2024 – Present",
       points: [
@@ -141,7 +143,7 @@ import {
     {
       title: "Machine Learning Engineer",
       company_name: "Mphasis, India",
-      icon: concentrix,
+      icon: mphasis,
       iconBg: "#383E56",
       date: "November 2019 – December 2022",
       points: [
