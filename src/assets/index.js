@@ -77,4 +77,6 @@ export {
   skynet,
   deardiary,
   hirehub,
+  metlife,
+  mphasis,
 };
